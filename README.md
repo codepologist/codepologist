@@ -1,8 +1,6 @@
 ## 🌟 About Me
 I'm a dedicated Software Engineer with a strong enthusiasm for open-source contributions and emerging technologies. I enjoy learning, coding, and engaging with the tech community.
 
-Want it to sound more formal, casual, or creative?
-
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript
 - **Frameworks:** React, Nextjs
