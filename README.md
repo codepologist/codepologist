@@ -8,7 +8,7 @@ I'm a dedicated Software Engineer with a strong enthusiasm for open-source contr
 - **Cloud:** AWS
 
 ## 📈 GitHub Stats
-![devrapture's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codepologist&show_icons=true&theme=radical)
+![devrapture's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codepologist&show_icons=true&theme=radical&cache_seconds=1)
 
 ## 📫 How to reach me
 - **Email:** codepologist@gmail.com
