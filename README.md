@@ -12,7 +12,7 @@ I'm a dedicated Software Engineer with a strong enthusiasm for open-source contr
 
 ## 📫 How to reach me
 - **Email:** codepologist@gmail.com
-- **Twitter:** [@codepologist](https://twitter.com/codepologist)
+- **Twitter:** [@ONealOmbu](https://twitter.com/ONealOmbu)
 
 ## 🚀 Projects
 - **[Testo](https://github.com/codepologist/testo-fastfood-app):** A modern eCommerce platform built with Next.js, Clerk, and Hygraph. This app delivers a seamless shopping experience with fast, server-rendered pages, secure user authentication, and a headless CMS for flexible content management. It supports user sign-up/login, product browsing, dynamic content, and smooth checkout flows—all designed to scale and adapt to modern commerce needs.
